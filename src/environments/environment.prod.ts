@@ -1,12 +1,12 @@
 export const environment = {
-  production: false,
+  production: true,
 
   firebase: {
-    apiKey: 'SUA_API_KEY',
-    authDomain: 'SEU_PROJETO.firebaseapp.com',
-    projectId: 'SEU_PROJECT_ID',
-    storageBucket: 'SEU_PROJETO.firebasestorage.app',
-    messagingSenderId: 'SEU_MESSAGING_SENDER_ID',
-    appId: 'SEU_APP_ID',
+    apiKey: 'AIzaSyCLrkXyxa4BfAhmK1pS0WIm18E6JyosiC4',
+    authDomain: 'if-help.firebaseapp.com',
+    projectId: 'if-help',
+    storageBucket: 'if-help.firebasestorage.app',
+    messagingSenderId: '1090810158534',
+    appId: '1:1090810158534:web:5b4300a854396bceb8a6c7',
   },
 };
